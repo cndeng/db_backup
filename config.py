@@ -1,0 +1,5 @@
+server_ip=''
+db_admin=''
+db_admin_pass=''
+db_name=''
+back_root_dir=''
