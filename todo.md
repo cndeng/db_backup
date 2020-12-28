@@ -19,6 +19,9 @@ import click
 
 ## 05. 历史记录
 
+```python
+import readline
+```
 ## 06. 日志等写入db
 
 
